@@ -1,0 +1,4 @@
+commands in git
+git config --global user.name"Rupesh2208"
+git config --global user.email"rupeshaundhe818@gmail.com"
+git clone 
